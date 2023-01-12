@@ -1,1 +1,3 @@
 foodeez-app/foodenv/
+foodeez-app/db.sqlite3
+.gitignore
